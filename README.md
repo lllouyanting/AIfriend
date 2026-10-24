@@ -1,10 +1,10 @@
-# AFriend
+# AIfriend
 
-Windows AI 桌宠 · 0.9.16
+Windows AI 桌宠 · 0.9.17
 
 拖动桌面上的像素蘑菇，单击打开聊天、日程和设置。第一次打开设置自己的角色，无需注册账号或填写 API 密钥。
 
-当前为 0.9.16 预发布版，下载安装见[版本发布页](https://github.com/lllouyanting/AIfriend/releases)。云端额度保护已开启，采用已确认的体验方案：总模型预算20元/天、每设备300轮/天。其他电脑的安装验收将在下载安装后进行。
+当前为 0.9.17 预发布版，下载安装见[版本发布页](https://github.com/llluoyanting/AIfriend/releases)。云端额度保护已开启，采用已确认的体验方案：总模型预算20元/天、每设备300轮/天。其他电脑的安装验收将在下载安装后进行。
 
 ## 可以做什么
 
@@ -16,7 +16,7 @@ Windows AI 桌宠 · 0.9.16
 
 ## 安装
 
-发布后从本仓库 Releases 下载 `afriend-Setup-0.9.16-windows-x64.exe`，运行安装并完成首次设置。安装包约 146 MiB，仅面向 Windows x64；当前未进行代码签名。
+发布后从本仓库 Releases 下载 `AIfriend-Setup-0.9.17-windows-x64.exe`，运行安装并完成首次设置。安装包约 146 MiB，仅面向 Windows x64；当前未进行代码签名。
 
 AI 回复与联网查询需要网络及体验服务。收起气泡后程序仍运行；彻底退出请使用托盘菜单。退出或关机后不会在云端继续执行本机提醒。
 
